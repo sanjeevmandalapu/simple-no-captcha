@@ -22,7 +22,6 @@
 	}
 
 	/* use this somewhere meaningful in the form page */
-
 	securityMapOutput($securityArray);
 	
 
